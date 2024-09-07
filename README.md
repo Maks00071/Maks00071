@@ -86,9 +86,9 @@
 
 [![Maks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maks00071)](https://github.com/Maks00071/github-readme-stats)
 
-<!---[![codewars](https://www.codewars.com/users/Maks00071/badges/small)](https://www.codewars.com/users/Maks00071) 
+<!---[![codewars](https://www.codewars.com/users/Maks00071/badges/small)](https://www.codewars.com/users/Maks00071)-->
 <!--
-**Maks00071/Maks00071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**Maks00071/Maks00071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
