@@ -79,6 +79,8 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&style=max-width)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white&style=max-width)
 
+<!---Для подробной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maks00071)](https://github.com/Maks00071/github-readme-stats)
 <!--
 **Maks00071/Maks00071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
