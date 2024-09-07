@@ -84,7 +84,7 @@
 <!---Для компактной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maks00071&layout=compact)](https://github.com/Maks00071/github-readme-stats)
 
-[![Maks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maks00071)](https://github.com/Maks00071/github-readme-stats)
+[![Maks00071's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maks00071)](https://github.com/Maks00071/github-readme-stats)
 
 <!---[![codewars](https://www.codewars.com/users/Maks00071/badges/small)](https://www.codewars.com/users/Maks00071)-->
 <!--
