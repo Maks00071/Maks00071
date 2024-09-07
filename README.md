@@ -84,6 +84,8 @@
 
 <!---Для компактной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maks00071&layout=compact)](https://github.com/Maks00071/github-readme-stats)
+
+[![Maks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maks00071)](https://github.com/Maks00071/github-readme-stats)
 <!--
 **Maks00071/Maks00071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
