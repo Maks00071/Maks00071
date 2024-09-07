@@ -1,7 +1,7 @@
 ## Hi, I'm Maks 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+work+Data+Engineer+-------------->)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=++and+study+Computer+Science.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+Data+Engineer+--------------->)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=++and+I+study+Computer+Science.+++)](https://git.io/typing-svg)
 
 
 
